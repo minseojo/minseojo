@@ -22,3 +22,5 @@ Here are some ideas to get you started:
 </a>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minseojo&layout=compact&theme=vue&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=liging)](https://solved.ac/liging)
