@@ -20,3 +20,5 @@ Here are some ideas to get you started:
         src="http://img.shields.io/badge/-velog-21232222?style=flat&logo=Vector Logo Zone&link=https://velog.io/@minseojo"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minseojo&layout=compact&theme=vue&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
