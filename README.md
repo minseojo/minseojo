@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?text=MinseoJo&animation=fadeIn&fontSize=40)
+![header](https://capsule-render.vercel.app/api?text=MinseoJo&animation=fadeIn&fontSize=80)
 
 ![minseojo's GitHub stats](https://github-readme-stats.vercel.app/api?username=minseojo&show_icons=true&theme=vue)
 
