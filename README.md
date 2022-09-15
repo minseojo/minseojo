@@ -12,7 +12,7 @@ img src="https://img.shields.io/badge/쓰고자하는_텍스트-컬러코드?sty
 
 
 
-## Techs that I use the most
+### Techs that I use the most
 
 
 <div align="center">
