@@ -6,11 +6,9 @@
 img src="https://img.shields.io/badge/쓰고자하는_텍스트-컬러코드?style=flat-square&logo=simpleicons에서_아이콘이름&logoColor=white"/></a>&nbsp 
 -->
 
-<div align="center">
+
     # 📚 Tech Stack
-    </
     #### Techs that I use the most
-</div>
 
 <div align="center">
     <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>
