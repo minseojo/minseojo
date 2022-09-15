@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=ffd700&height=300&section=header&text=MinseoJo&fontSize=80&animation=blinking&rotate=20&fontAlign=65&fontAlignY=35&fontColor=3f3f3f)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=ffd700&height=300&section=header&text=MinseoJo&fontSize=80&animation=blinking&fontAlign=65&fontAlignY=35&fontColor=3f3f3f)
 
 ![minseojo's GitHub stats](https://github-readme-stats.vercel.app/api?username=minseojo&show_icons=true&theme=vue)
 
