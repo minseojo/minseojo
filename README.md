@@ -7,8 +7,8 @@ img src="https://img.shields.io/badge/쓰고자하는_텍스트-컬러코드?sty
 -->
 
 
-# 📚 Tech Stack
-#### Techs that I use the most
+<div style="text-align:center"># 📚 Tech Stack
+<div style="text-align:center">#### Techs that I use the most
 
 <div align="center">
     <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>
