@@ -11,15 +11,18 @@ img src="https://img.shields.io/badge/쓰고자하는_텍스트-컬러코드?sty
 ### Techs that I use the most
 <div align="left">
     <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>
-    </a>
+</div>
+
+<div align="left">
     <img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
     <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>
     <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"/></a>
+</div>
+
+<div align="left">
     <img src="https://img.shields.io/badge/Html-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>
     <img src="https://img.shields.io/badge/Java Script-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>
 </div>
-
-
 
 <!--
 a+어쩌고
