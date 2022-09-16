@@ -24,10 +24,10 @@ img src="https://img.shields.io/badge/쓰고자하는_텍스트-컬러코드?sty
     <img src="https://img.shields.io/badge/Java Script-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/></a>
 </div>
 
-<!--
+
 a+어쩌고
 ![minseojo's GitHub stats](https://github-readme-stats.vercel.app/api?username=minseojo&show_icons=true&theme=vue)
--->
+
 
 <!--
 벨로그 링크
