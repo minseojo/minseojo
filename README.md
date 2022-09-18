@@ -21,7 +21,7 @@ img src="https://img.shields.io/badge/쓰고자하는_텍스트-컬러코드?sty
 </div>
 
 # 📰 Blog
-    <img src="https://img.shields.io/badge/Velog-#20C997?style=flat-square&logo=Velog&logoColor=white&link=https://velog.io/@minseojo"/></a>
+   <img src="https://img.shields.io/badge/Velog-#20C997?style=flat-square&logo=Velog&logoColor=white&link=https://velog.io/@minseojo"/></a>
 </a>
 
 
