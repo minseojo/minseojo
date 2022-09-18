@@ -1,12 +1,13 @@
 <!--
 img src="https://img.shields.io/badge/쓰고자하는_텍스트-컬러코드?style=flat-square&logo=simpleicons에서_아이콘이름&logoColor=white"/></a>&nbsp 
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=minseojo&theme=dracula)](https://github.com/minseojo)
+
 -->
 
 
 
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=003458&height=240&section=header&text=MinseoJo&fontSize=60&animation=blinking&5&fontColor=ffffff)
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=minseojo&theme=dracula)](https://github.com/minseojo)
 
 # 📚 Tech Stack
 ### Techs that I use the most
@@ -36,3 +37,5 @@ img src="https://img.shields.io/badge/쓰고자하는_텍스트-컬러코드?sty
 </div>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=liging)](https://solved.ac/liging/)
+
+
