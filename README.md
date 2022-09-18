@@ -33,5 +33,6 @@ img src="https://img.shields.io/badge/쓰고자하는_텍스트-컬러코드?sty
         <img src="https://img.shields.io/badge/Mail-EA4335?style=flat-square&logo=Minutemailer&logoColor=white"/>
     </a>
     
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=liging)](https://solved.ac/liging/)
 </div>
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=liging)](https://solved.ac/liging/)
