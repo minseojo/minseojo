@@ -35,10 +35,10 @@ img src="https://img.shields.io/badge/쓰고자하는_텍스트-컬러코드?sty
 
 
 
-<!--
-a+어쩌고
+
+
 ![minseojo's GitHub stats](https://github-readme-stats.vercel.app/api?username=minseojo&show_icons=true&theme=vue)
--->
+
 
 <!--
 벨로그 링크
