@@ -23,6 +23,8 @@ img src="https://img.shields.io/badge/쓰고자하는_텍스트-컬러코드?sty
     <img src="https://img.shields.io/badge/Java Script-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/></a>
 </div>
 
+---
+
 # 😀 Me
 ### How to reach me
 <div align="left">
