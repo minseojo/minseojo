@@ -1,5 +1,5 @@
 <!--
-img src="https://img.shields.io/badge/쓰고자하는_텍스트-컬러코드?style=flat-square&logo=simpleicons에서_아이콘이름&logoColor=white"/></a>&nbsp 
+<img src="https://img.shields.io/badge/쓰고자하는_텍스트-컬러코드?style=flat-square&logo=simpleicons에서_아이콘이름&logoColor=white"/></a>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=minseojo&theme=dracula)](https://github.com/minseojo)
 
@@ -10,6 +10,7 @@ img src="https://img.shields.io/badge/쓰고자하는_텍스트-컬러코드?sty
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=003458&height=240&section=header&text=MinseoJo&fontSize=60&animation=blinking&5&fontColor=ffffff)
 
 # 📚 Tech Stack
+
 ### Techs that I use the most
 <div align="left">
     <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>
@@ -21,6 +22,12 @@ img src="https://img.shields.io/badge/쓰고자하는_텍스트-컬러코드?sty
     <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=Bootstrap&logoColor=white"/></a>
 </div>
 
+<div align="left">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
+</div>
+
+
+
 ### Techs that I use the little
 <div align="left">
     <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>
@@ -29,6 +36,10 @@ img src="https://img.shields.io/badge/쓰고자하는_텍스트-컬러코드?sty
 </div>
 
 ---
+
+
+
+
 
 # 😀 Me
 ### How to reach me
