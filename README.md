@@ -6,23 +6,26 @@ img src="https://img.shields.io/badge/쓰고자하는_텍스트-컬러코드?sty
 -->
 
 # 📚 Tech Stack
-
-
 ### Techs that I use the most
 <div align="left">
     <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>
     <img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
 </div>
-
 <div align="left">
     <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>
     <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"/></a>
 </div>
-
 <div align="left">
     <img src="https://img.shields.io/badge/Html-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>
     <img src="https://img.shields.io/badge/Java Script-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/></a>
 </div>
+
+# 📰 Blog
+ <a href="https://velog.io/@minseojo">
+    <img src="http://img.shields.io/badge/-velog-21232222?style=flat&logo=&link=https://velog.io/@minseojo" 
+    style="height : 40px; margin-left : 20px; margin-right : 20px;"/>
+</a>
+
 
 <!--
 a+어쩌고
