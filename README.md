@@ -33,4 +33,5 @@ img src="https://img.shields.io/badge/쓰고자하는_텍스트-컬러코드?sty
 </div>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=liging)](https://solved.ac/liging/)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=minseojo)](https://github.com/anuraghazra/github-readme-stats)
 
