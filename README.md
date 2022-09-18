@@ -21,6 +21,7 @@ img src="https://img.shields.io/badge/쓰고자하는_텍스트-컬러코드?sty
 </div>
 
 # 😀 Me
+### How to reach me
 <div align="left">
     <a href="https://velog.io/@minseojo">
         <img src="https://img.shields.io/badge/Blog-20C997?style=flat-square&logo=Velog&logoColor=white"/>
