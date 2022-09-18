@@ -1,9 +1,13 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&color=003458&height=240&section=header&text=MinseoJo&fontSize=60&animation=blinking&5&fontColor=ffffff)
-
-
 <!--
 img src="https://img.shields.io/badge/쓰고자하는_텍스트-컬러코드?style=flat-square&logo=simpleicons에서_아이콘이름&logoColor=white"/></a>&nbsp 
 -->
+
+
+
+![header](https://capsule-render.vercel.app/api?type=Waving&color=003458&height=240&section=header&text=MinseoJo&fontSize=60&animation=blinking&5&fontColor=ffffff)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=minseojo&theme=radical)](https://github.com/minseojo/github-readme-stats)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=liging)](https://solved.ac/liging/)
 
 # 📚 Tech Stack
 ### Techs that I use the most
@@ -31,8 +35,3 @@ img src="https://img.shields.io/badge/쓰고자하는_텍스트-컬러코드?sty
     </a>
 
 </div>
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=minseojo&theme=radical)](https://github.com/minseojo/github-readme-stats)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=liging)](https://solved.ac/liging/)
-
-
