@@ -23,8 +23,6 @@ img src="https://img.shields.io/badge/쓰고자하는_텍스트-컬러코드?sty
     <img src="https://img.shields.io/badge/Java Script-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/></a>
 </div>
 
----
-
 # 😀 Me
 ### How to reach me
 <div align="left">
@@ -37,6 +35,4 @@ img src="https://img.shields.io/badge/쓰고자하는_텍스트-컬러코드?sty
     
 </div>
 
-### Baekjoon
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=liging)](https://solved.ac/liging/)
+Baekjoon: [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=liging)](https://solved.ac/liging/)
