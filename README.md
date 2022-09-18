@@ -23,7 +23,7 @@ img src="https://img.shields.io/badge/쓰고자하는_텍스트-컬러코드?sty
 # 😀 Me
 <div align="left">
     <a href="https://velog.io/@minseojo">
-        <img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Blog-20C997?style=flat-square&logo=Velog&logoColor=white"/>
     </a>
     <a href="mailto:liging12@naver.com">
         <img src="https://img.shields.io/badge/Mail-EA4335?style=flat-square&logo=Minutemailer&logoColor=white"/>
