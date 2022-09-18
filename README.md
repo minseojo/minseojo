@@ -20,7 +20,7 @@ img src="https://img.shields.io/badge/쓰고자하는_텍스트-컬러코드?sty
     <img src="https://img.shields.io/badge/Java Script-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/></a>
 </div>
 
-# 📰 Blog
+# 😀 Me
    <a href="https://velog.io/@minseojo">
        <img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/>
    </a>
