@@ -6,7 +6,7 @@ img src="https://img.shields.io/badge/쓰고자하는_텍스트-컬러코드?sty
 
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=003458&height=240&section=header&text=MinseoJo&fontSize=60&animation=blinking&5&fontColor=ffffff)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=minseojo&theme=dracula)](https://github.com/minseojo)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=minseojo&theme=synthwave)](https://github.com/minseojo)
 
 # 📚 Tech Stack
 ### Techs that I use the most
