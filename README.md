@@ -21,9 +21,7 @@ img src="https://img.shields.io/badge/쓰고자하는_텍스트-컬러코드?sty
 </div>
 
 # 📰 Blog
- <a href="https://velog.io/@minseojo">
-    <img src="http://img.shields.io/badge/-velog-21232222?style=flat&logo=&link=https://velog.io/@minseojo" 
-    style="height : 40px; margin-left : 20px; margin-right : 20px;"/>
+    <img src="http://img.shields.io/badge/Velog-#20C997?style=flat&logo=&link=https://velog.io/@minseojo"/>
 </a>
 
 
