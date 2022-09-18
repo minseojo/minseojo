@@ -26,7 +26,7 @@
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
 </div>
 
-
+---
 
 ### Techs that I use the little
 <div align="left">
