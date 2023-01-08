@@ -16,7 +16,7 @@
     <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>
     <img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
     <img src="https://img.shields.io/badge/-sqlite-blue?logo=sqlite"></a>
-     <img src="https://img.shields.io/badge/-java-white?logo=java"></a>
+     <img src="https://img.shields.io/badge/-java-white?logo=python"></a>
 </div>
 <div align="left">
     <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>
