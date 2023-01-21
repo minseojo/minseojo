@@ -57,4 +57,4 @@
 
 ### LeetCode
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/JacobLinCool?theme=dark)
+![Leetcode Stats](https://leetcard.liging12.cool/liging12?theme=dark)
