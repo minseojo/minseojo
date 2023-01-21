@@ -57,4 +57,4 @@
 
 ### LeetCode
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/minseojo?theme=dark)
+[![Leetcode Stats](https://leetcard.jacoblin.cool/minseojo?theme=dark)](https://leetcode.com/minseojo/)
