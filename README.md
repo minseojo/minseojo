@@ -10,9 +10,20 @@
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=minseojo&show_icons=true&theme=vue)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minseojo&langs_count=5&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
-# 📚 Tech Stack
+
 <div align="left">
-    <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white"/></a>
+ Blog : 
+  <a href="https://velog.io/@minseojo">
+        <img src="https://img.shields.io/badge/Blog-20C997?style=flat-square&logo=Velog&logoColor=white"/>
+    </a>
+    <a href="mailto:liging12@naver.com">
+        <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=Minutemailer&logoColor=white"/>
+    </a>
+    
+</div>
+
+# 📚 I’m currently learning
+<div align="left">
     <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
 </div>
