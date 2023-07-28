@@ -3,11 +3,11 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=minseojo&theme=dracula)](https://github.com/minseojo)
 
--->
- 
-
 
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=003458&height=240&section=header&text=MinseoJo&fontSize=60&animation=blinking&5&fontColor=ffffff)
+-->
+ 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=minseojo)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minseojo&langs_count=5&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
 # 📚 Tech Stack
