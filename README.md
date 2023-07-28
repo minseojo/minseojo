@@ -12,19 +12,13 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minseojo&langs_count=5&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
 
 <hr>
-<div align="left">
- Blog : 
-  <a href="https://velog.io/@minseojo">
-        <img src="https://img.shields.io/badge/Blog-20C997?style=flat-square&logo=Velog&logoColor=white"/>
-    </a>
- <br>
- Email : 
-    <a href="mailto:liging12@naver.com">
-        <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=Minutemailer&logoColor=white"/>
-    </a>
-    
-</div>
 
+# Profile
+Blog : https://velog.io/@minseojo
+<br>
+Email : liging12@naver.com
+
+<hr>
 # 📚 I’m currently learning
 <div align="left">
     <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/></a>
@@ -47,8 +41,3 @@
 
 
 
-
-# Profile
-Blog : https://velog.io/@minseojo
-<br>
-Email : liging12@naver.com
