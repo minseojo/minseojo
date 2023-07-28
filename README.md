@@ -11,10 +11,11 @@
 Blog: https://velog.io/@minseojo
 <br>
 Email: liging12@naver.com
-<br>
+<br><br>
 ![Anurag's github ](https://github-readme-stats.vercel.app/api?username=minseojo&show_icons=true&theme=vue)
-
+<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minseojo&langs_count=5&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
+<br>
 
 # I’m currently learning
 <div align="left">
