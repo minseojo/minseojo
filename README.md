@@ -9,7 +9,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=003458&height=240&section=header&text=MinseoJo&fontSize=60&animation=blinking&5&fontColor=ffffff)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minseojo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minseojo&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 # 📚 Tech Stack
 <div align="left">
     <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white"/></a>
