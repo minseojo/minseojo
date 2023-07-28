@@ -6,16 +6,15 @@
 
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=003458&height=240&section=header&text=MinseoJo&fontSize=60&animation=blinking&5&fontColor=ffffff)
 -->
- 
-![Anurag's github ](https://github-readme-stats.vercel.app/api?username=minseojo&show_icons=true&theme=vue)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minseojo&langs_count=5&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
-
 
 # Profile
 Blog: https://velog.io/@minseojo
 <br>
 Email: liging12@naver.com
+<br>
+![Anurag's github ](https://github-readme-stats.vercel.app/api?username=minseojo&show_icons=true&theme=vue)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minseojo&langs_count=5&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
 
 # I’m currently learning
 <div align="left">
@@ -24,6 +23,5 @@ Email: liging12@naver.com
     <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
 </div>
 
-
-
+# 
 
