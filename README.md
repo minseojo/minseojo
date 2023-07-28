@@ -44,7 +44,7 @@
         <img src="https://img.shields.io/badge/Blog-20C997?style=flat-square&logo=Velog&logoColor=white"/>
     </a>
     <a href="mailto:liging12@naver.com">
-        <img src="https://img.shields.io/badge/Mail-EA4335?style=flat-square&logo=Minutemailer&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=Minutemailer&logoColor=white"/>
     </a>
     
 </div>
