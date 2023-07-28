@@ -49,11 +49,3 @@
     </a>
     
 </div>
-
-### Baekjoon
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=liging)](https://solved.ac/liging/)
-
-### LeetCode
-
-[![Leetcode Stats](https://leetcard.jacoblin.cool/minseojo?theme=dark)](https://leetcode.com/minseojo/)
