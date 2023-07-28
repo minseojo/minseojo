@@ -11,32 +11,18 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minseojo&langs_count=5&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
 
-<hr>
 
 # Profile
-Blog : https://velog.io/@minseojo
+Blog: https://velog.io/@minseojo
 <br>
-Email : liging12@naver.com
+Email: liging12@naver.com
 
-<hr>
 # 📚 I’m currently learning
 <div align="left">
     <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/></a>
     <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white"/></a>
     <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
 </div>
-
-<!--
----   
-<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=Bootstrap&logoColor=white"/></a>
-### Techs that I use the little
-<div align="left">
-    <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>
-    <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a>
-    <img src="https://img.shields.io/badge/Java Script-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/></a>
-</div>
--->
-
 
 
 
