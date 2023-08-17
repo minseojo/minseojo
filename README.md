@@ -14,17 +14,17 @@ Email: liging12@naver.com
 <br>
 Baekjoon: https://solved.ac/profile/liging
 <br><br>
-[![Anurag's github ](https://github-readme-stats.vercel.app/api?username=minseojo&show_icons=true&theme=vue)
+
+[![Anurag's github](https://github-readme-stats.vercel.app/api?username=minseojo&show_icons=true&theme=vue)
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minseojo&langs_count=5&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
-<br>
-<br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minseojo&langs_count=5&hide=html,css)(https://github.com/anuraghazra/github-readme-stats)
+<br><br>
+
 # I’m currently learning
 <div align="left">
     <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/></a>
     <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white"/></a>
     <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
 </div>
-
-# 
 
