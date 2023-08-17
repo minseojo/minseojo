@@ -15,10 +15,10 @@ Email: liging12@naver.com
 Baekjoon: https://solved.ac/profile/liging
 <br><br>
 
-[![Anurag's github](https://github-readme-stats.vercel.app/api?username=minseojo&show_icons=true&theme=vue)
+![Anurag's github](https://github-readme-stats.vercel.app/api?username=minseojo&show_icons=true&theme=vue)
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minseojo&langs_count=5&hide=html,css)(https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minseojo&langs_count=5&hide=html,css)
 <br><br>
 
 # I’m currently learning
