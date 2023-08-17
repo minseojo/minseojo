@@ -9,16 +9,16 @@
 
 # Profile
 Blog: https://velog.io/@minseojo
-<br>
+<br><br>
 Email: liging12@naver.com
-<br>
+<br><br>
 Baekjoon: https://solved.ac/profile/liging
-<br>
+<br><br>
 ![Anurag's github ](https://github-readme-stats.vercel.app/api?username=minseojo&show_icons=true&theme=vue)
-<br>
+<br><br><br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minseojo&langs_count=5&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
 <br>
-
+<br>
 # I’m currently learning
 <div align="left">
     <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/></a>
