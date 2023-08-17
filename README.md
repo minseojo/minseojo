@@ -17,7 +17,7 @@ Baekjoon: https://solved.ac/profile/liging
 
 ![Anurag's github ](https://github-readme-stats.vercel.app/api?username=minseojo&show_icons=true&theme=vue)
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minseojo&langs_count=5&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minseojo&langs_count=5&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 
 
