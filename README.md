@@ -15,13 +15,13 @@ Email: liging12@naver.com
 Baekjoon: https://solved.ac/profile/liging
 <br><br>
 
-<div align="center">
-    ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=minseojo&show_icons=true&theme=vue)
-    <br>
-    
-    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minseojo&langs_count=5&hide=html,css)
-    <br><br>
-</div>
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=minseojo&show_icons=true&theme=vue)
+<br>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minseojo&langs_count=5&hide=html,css)
+<br><br>
+
 
 # I’m currently learning
 <div align="left">
