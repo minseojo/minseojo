@@ -20,11 +20,11 @@
 <br>
 
 # I’m currently learning
-<div align="left">
 - Java
 - Spring Boot
 - Mysql
 - JPA
+<div align="left">
     <!--
     <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/></a>
    <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white"/></a>
