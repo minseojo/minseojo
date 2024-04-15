@@ -22,7 +22,7 @@
 # I’m currently learning
 - Java
 - Spring Boot
-- Mysql
+- MySQL
 - JPA
 <div align="left">
     <!--
