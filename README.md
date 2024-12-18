@@ -8,6 +8,7 @@
 -->
 
 # Profile
+### Linkedin: https://www.linkedin.com/in/%EB%AF%BC%EC%84%9C-%EC%A1%B0-039b29262/
 ### Blog: https://velog.io/@minseojo
 ### Email: liging12@naver.com
 ### Baekjoon: https://solved.ac/profile/liging
