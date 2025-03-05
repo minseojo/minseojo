@@ -9,7 +9,7 @@
 
 
 <!--
-# Profile
+## Profile
 ### Linkedin: https://www.linkedin.com/in/%EB%AF%BC%EC%84%9C-%EC%A1%B0-039b29262/
 ### Blog: https://velog.io/@minseojo
 ### Email: liging12@naver.com
@@ -20,11 +20,10 @@
 <br>
 -->
 
-## 👋 Hi, I'm Jo Minseo.
-🌍 Passionate about **Digital Twin, Smart City, and Optimization** 
-
-💼 Currently working at **ICTWAY**  
-🎓 B.S. in **IT Engineering**, JBNU | 🚀 **SW Maestro 15th**  
+## 👋 Introduction
+🌍 Passionate about **Digital Twin, Smart City, and Optimization** </br>
+💼 Currently working at **ICTWAY**</br>
+🎓 B.S. in **IT Engineering**, JBNU | 🚀 **SW Maestro 15th**
 
 ---
 
@@ -60,8 +59,10 @@
 
 ---
 
+<!--
 ### 📊 GitHub Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minseojo&langs_count=5&hide=html,css,tex)](https://github.com/anuraghazra/github-readme-stats)
 <br>
+-->
 
 
