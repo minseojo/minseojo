@@ -23,7 +23,8 @@
 ### 👋 Introduction
 🌍 Passionate about **Digital Twin, Smart City, and Optimization** </br>
 💼 Currently working at **ICTWAY**</br>
-🎓 B.S. in **IT Engineering**, JBNU | 🚀 **SW Maestro 15th**
+🎓 B.S. in **IT Engineering**, JBNU</br>
+🚀 **SW Maestro 15th**
 
 ---
 
