@@ -46,11 +46,10 @@
 ---
 
 ### 🌱 Learning & Researching
-- 📚 **Studying:** Cesium, 3D Graphics, Operating Systems (File Systems, Memory Management)  
+- 📚 **Studying:** **_[3D Engine Design for Virtual Globes](https://www.amazon.com/3D-Engine-Design-Virtual-Globes/dp/1568817118)_**, [Cesium](https://cesium.com/), 3D Graphics, File Systems
 - 🌍 **Exploring:** Digital Twin, GIS Technologies
 - 🚀 **Investigating:** Data Structure Optimization for High-Performance Rendering  
-
-
+ 
 ---
 
 ### 📫 Contact
