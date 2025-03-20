@@ -46,23 +46,26 @@
 ---
 
 ### 🌱 Learning & Researching
-- 📚 **Studying:** **_[3D Engine Design for Virtual Globes](https://www.amazon.com/3D-Engine-Design-Virtual-Globes/dp/1568817118)_**, [Cesium](https://cesium.com/), 3D Graphics, File Systems
+- 📚 **Studying:** **_[3D Engine Design for Virtual Globes](https://www.amazon.com/3D-Engine-Design-Virtual-Globes/dp/1568817118)_**, [Cesium](https://cesium.com/), Linear Algebra, Machine Learning, Computer Science
 - 🌍 **Exploring:** Digital Twin, GIS Technologies
 - 🚀 **Investigating:** Data Structure Optimization for High-Performance Rendering  
- 
 ---
 
 ### 📫 Contact
 - **Email:** [liging12@naver.com](mailto:liging12@naver.com)  
-- **LinkedIn:** [linkedin.com/in/minseojo](https://www.linkedin.com/in/minseojo/)  
+- **LinkedIn:** [linkedin.com/in/minseojo](https://www.linkedin.com/in/%EB%AF%BC%EC%84%9C-%EC%A1%B0-039b29262/details/projects/)  
 - **Blog:** [virtualworld.tistory.com](https://virtualworld.tistory.com/)  
 
 ---
 
-<!--
+
 ### 📊 GitHub Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minseojo&langs_count=5&hide=html,css,tex)](https://github.com/anuraghazra/github-readme-stats)
-<br>
--->
+
+</div>
+<div align="center">
+<!-- My profile -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minseojo&langs_count=5&hide=html,css,tex" width=22% />
+<img src="https://github-readme-stats.vercel.app/api?username=minseojo&show_icons=true&theme=vue" width=50% />
 
 
+</div>
