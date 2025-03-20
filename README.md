@@ -21,7 +21,7 @@
 -->
 
 ### 👋 Introduction
-🌍 Passionate about **Digital Twin, Smart City, and Optimization** </br>
+🌍 Passionate about **Digital Twin, 3D Physics Simulation, and Optimization** </br>
 💼 Currently working at **ICTWAY**</br>
 🎓 B.S. in **IT Engineering**, JBNU</br>
 🚀 **SW Maestro** 15th
@@ -29,7 +29,7 @@
 ---
 
 ### 🔥 Interests
-- **Digital Twin** – **Focusing on geospatial data processing, 3D physics simulation, machine learning, and real-world simulation**  
+- **Digital Twin** – Focusing on **geospatial data processing, 3D physics simulation, machine learning, and real-world simulation**  
 - **Optimization** – Focusing on **performance, scalability, and high-performance computing**  
 <!--- **Computer Science** – Focusing on **algorithm efficiency, memory optimization**  -->
 
