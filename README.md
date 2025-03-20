@@ -54,7 +54,7 @@
 
 ### 📫 Contact
 - **Email:** [liging12@naver.com](mailto:liging12@naver.com)  
-- **LinkedIn:** [linkedin.com/in/minseojo](https://www.linkedin.com/in/%EB%AF%BC%EC%84%9C-%EC%A1%B0-039b29262/details/projects/)  
+- **LinkedIn:** [linkedin.com/in/minseojo](https://www.linkedin.com/in/minseojo/)  
 - **Blog:** [virtualworld.tistory.com](https://virtualworld.tistory.com/)  
 
 ---
