@@ -29,7 +29,7 @@
 ---
 
 ### 🔥 Interests
-- **Digital Twin** – **Digital Twin – Focusing on geospatial data processing, 3D physics simulation, machine learning, and real-world simulation**  
+- **Digital Twin** – **Focusing on geospatial data processing, 3D physics simulation, machine learning, and real-world simulation**  
 - **Optimization** – Focusing on **performance, scalability, and high-performance computing**  
 <!--- **Computer Science** – Focusing on **algorithm efficiency, memory optimization**  -->
 
