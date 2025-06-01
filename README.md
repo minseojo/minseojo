@@ -38,7 +38,7 @@
 ### 🛠 Tech Stack
 - **Languages:** C++, Java, JavaScript, Python  
 - **Backend:** Spring Boot (+ JPA)  
-- **Database:** MySQL, PostgreSQL  
+- **Database:** MySQL, PostgreSQL, SQLite
 - **Front-end:** React, React Native  
 - **Cloud:** AWS (EC2, S3, RDS, CloudFront, Route 53, Lambda, SQS)  
 - **DevOps:** GitHub Actions, Docker  
@@ -46,7 +46,7 @@
 ---
 
 ### 🌱 Learning & Researching
-- 📚 **Studying:** **_[3D Engine Design for Virtual Globes](https://www.amazon.com/3D-Engine-Design-Virtual-Globes/dp/1568817118)_**, [Cesium](https://cesium.com/), Linear Algebra, Machine Learning, Computer Science
+- 📚 **Studying:** File Systems, Object Storage (S3, JuiceFS), Kafka
 - 🌍 **Exploring:** Digital Twin, GIS Technologies
 - 🚀 **Investigating:** Data Structure Optimization for High-Performance Rendering  
 ---
