@@ -1,9 +1,9 @@
 
 ### 👋 Introduction
-🌍 Passionate about **Digital Twin, 3D Physics Simulation, and Optimization**  
-💼 Currently working at **ICTWAY**  
-🎓 B.S. in **IT Engineering**, JBNU  
-🚀 Alumni of **SW Maestro 15th**
+🌍 Passionate about **Digital Twin** and **Physical AI**  
+💼 Currently working at **ICTWAY** (2024.12 ~ Present)  
+🎓 B.S. in **IT Engineering**, JBNU (2019.03 ~ 2025.02)  
+🚀 **SW Maestro 15th Trainee** (2024.04 ~ 2024.12)  
 
 ---
 
