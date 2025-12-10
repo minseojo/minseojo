@@ -11,19 +11,6 @@
 
 ---
 
-### 🛠 Tech Stack
-- **Languages**: Java, C#, Python, JavaScript  
-- **Backend**: Spring Boot(MVC), JPA/Hibernate
-- **Database**: PostgreSQL, MySQL, Redis, MongoDB, SQLite
-- **Storage**: Amazon S3, SeaweedFS
-- **Messaging**: Apache Kafka, AWS SQS  
-- **Cloud**: AWS (EC2, RDS, S3, CloudFront, Lambda)  
-- **Frontend**: React, React Native  
-- **DevOps**: Docker, GitHub Actions
-- **Monitoring**: Grafana, k6
-
----
-
 ### 🧩 Projects
 
 #### 1. 빌드 분산 파이프라인 및 저장 구조 개선
@@ -64,15 +51,46 @@
 
 ---
 
+### 🛠 Tech Stack
+- **Languages**: Java, C#, Python, JavaScript  
+- **Backend**: Spring Boot(MVC), JPA/Hibernate
+- **Database**: PostgreSQL, MySQL, Redis, MongoDB, SQLite
+- **Storage**: Amazon S3, SeaweedFS
+- **Messaging**: Apache Kafka, AWS SQS  
+- **Cloud**: AWS (EC2, RDS, S3, CloudFront, Lambda)  
+- **Frontend**: React, React Native  
+- **DevOps**: Docker, GitHub Actions
+- **Monitoring**: Grafana, k6
+
+---
+### 📚 Blog Posts
+
+> 더 많은 글은 블로그에서 볼 수 있습니다 👉 [virtualworld.tistory.com](https://virtualworld.tistory.com)
+
+- [신뢰성을 위한 Timeout 처리와 멱등성 설계 전략](https://virtualworld.tistory.com/44)  
+  의도치 않은 네트워크 예외 상황을 미리 가정하고, **Timeout·재시도·멱등성**으로 시스템 일관성을 지키는 방법을 정리한 글입니다.
+
+- [[Log-based System] RDBMS와 Kafka 구조 분석](https://virtualworld.tistory.com/19)  
+  RDBMS와 Kafka가 `로그(Log)`를 중심으로 어떻게 데이터의 일관성과 내구성을 보장하는지 비교·정리한 글입니다.
+
+- [CAP 이론과 PACELC 트레이드오프 정리](https://virtualworld.tistory.com/29)  
+  분산 시스템에서 **일관성·가용성·지연** 사이의 트레이드오프를 정리한 글입니다.
+
+- [[Zero-Copy] 파일 전송 최적화와 Kafka 코드 분석](https://virtualworld.tistory.com/20)  
+  `sendfile` 기반 Zero-Copy가 어떻게 커널 버퍼 복사를 줄이고, **고성능 파일/메시지 전송**을 가능하게 하는지 실험과 함께 설명한 글입니다.
+
+- [대규모 공간 데이터 처리와 Implicit Tiling 설계](https://virtualworld.tistory.com/23)  
+  프로젝트 **3D GIS 엔진 자료구조 전환 (3D Tiles 1.0 → 1.1)** 항목과 연결되는, 실제 설계·구현 과정을 정리한 글입니다.
+
+- [[Z-order Indexing] 공간 데이터 최적화](https://virtualworld.tistory.com/21)  
+  Morton Code(Z-order)를 활용해 대규모 공간 데이터를 **캐시 친화적이고 정렬된 인덱스**로 관리하는 방법을 정리한 글입니다.
+
+
+---
+
 ### 📫 Contact
 - **Email**: [liging12@naver.com](mailto:liging12@naver.com)  
 - **LinkedIn**: [linkedin.com/in/minseojo](https://www.linkedin.com/in/minseojo/)  
 - **Blog**: [virtualworld.tistory.com](https://virtualworld.tistory.com/)  
 
----
 
-### 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minseojo&langs_count=6&hide=html,css,tex&layout=compact" width="35%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=minseojo&show_icons=true&theme=vue" width="50%" />
-</div>
