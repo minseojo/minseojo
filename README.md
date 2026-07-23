@@ -5,7 +5,7 @@
 `Spatial Data` `Distributed Systems` `Performance Optimization` `Large-scale Backend` `GIS`
 
 - **나라스페이스테크놀로지** — 지상소프트웨어 & 데이터플랫폼팀 (2026.07 ~ 현재)
-- **아이씨티웨이(ICTWAY)** — 3D GIS 엔진 & 백엔드 엔지니어 (2024.12 ~ 2026.07)
+- **아이씨티웨이** — 3D GIS 엔진 & 백엔드 엔지니어 (2024.12 ~ 2026.07)
 - **전북대학교** IT정보공학과 학사 (2019.03 ~ 2025.02)
 - **소프트웨어 마에스트로 15기** 백엔드 리드 (2024.04 ~ 2024.11)
 
@@ -24,8 +24,8 @@
 ## 주요 프로젝트
 
 ### 1. 공간 인덱스 재설계 — 트리 탐색을 좌표 계산으로 대체 `2025.03 ~ 2025.06`
-- **문제** — 수백만 개 데이터 조각(타일)의 위치를 쿼드트리 순회로 탐색($$O(\log_4 N)$$)하고, 트리 전체 메타데이터를 클라이언트가 통째로 내려받아야 하는 구조.
-- **해결** — 트리 자료구조를 규칙 기반 인코딩으로 대체. Z-Order(Morton) 인덱싱으로 좌표에서 데이터 위치를 직접 계산하는 **$$O(1)$$ 랜덤 액세스** 구현, 메타데이터는 서브트리 단위로 분할해 필요한 부분만 로드.
+- **문제** — 수백만 개 공간 타일(데이터 조각)의 위치를 쿼드트리 순회로 탐색($O(\log_4 N)$)하고, 트리 전체 메타데이터를 클라이언트가 통째로 내려받아야 하는 구조.
+- **해결** — 트리 자료구조를 규칙 기반 인코딩으로 대체. Z-Order(Morton) 인덱싱으로 좌표에서 데이터 위치를 직접 계산하는 **$O(1)$ 랜덤 액세스** 구현, 메타데이터는 서브트리 단위로 분할해 필요한 부분만 로드.
 - **성과** — 렌더링 FPS **약 30% 향상**, 클라이언트 메모리 점유 **수백 MB → 수십 KB**, 메타데이터 용량 **30~40% 절감**.
 - **블로그** — [전 세계 공간정보를 다루는 자료구조 구현기](https://virtualworld.tistory.com/23)
 
@@ -67,26 +67,24 @@
 
 ## 기술 스택
 
-| 분류 | 주력 | 학습 중 |
+| 분류 | 주력 | 관심 / 도입 중 |
 | :--- | :--- | :--- |
 | **언어** | Java, C#, Python | |
 | **백엔드** | Spring Framework, FastAPI, JPA/Hibernate | OAuth2/OIDC |
 | **데이터 & 메시징** | PostgreSQL (PostGIS), MySQL, Apache Kafka | |
 | **인프라 & DevOps** | AWS, Docker, GitHub Actions | Kubernetes |
 | **모니터링** | Grafana, Prometheus, k6 | |
-
 ---
 
 ## 블로그
+- **[분산 시스템]** [5000개 파일을 원자적으로 배포하기 — Atomic Rename 패턴과 SeaweedFS 아키텍처](https://virtualworld.tistory.com/45)
+- **[I/O 최적화]** [대용량 파일 멀티파트 업로드, 정말 빠를까?](https://virtualworld.tistory.com/62)
+- **[운영체제]** [Zero-Copy — 파일 전송 최적화와 Kafka 코드 분석](https://virtualworld.tistory.com/20)
+- **[백엔드]** [Spring 비동기 처리 — MVC 비동기 → WebFlux → Virtual Threads](https://virtualworld.tistory.com/54)
 - **[네트워크]** [Dual Write와 데이터 정합성 — 전파 지연과 장애 복구 전략](https://virtualworld.tistory.com/53)
 - **[네트워크]** [신뢰성을 위한 Timeout 처리와 멱등성 설계 전략](https://virtualworld.tistory.com/44)
-- **[I/O 최적화]** [대용량 파일 멀티파트 업로드, 정말 빠를까?](https://virtualworld.tistory.com/62)
-- **[백엔드]** [Spring 비동기 처리 — MVC 비동기 → WebFlux → Virtual Threads](https://virtualworld.tistory.com/54)
-- **[분산 시스템]** [5000개 파일을 원자적으로 배포하기 — Atomic Rename 패턴과 SeaweedFS 아키텍처](https://virtualworld.tistory.com/45)
 - **[데이터베이스]** [PostgreSQL 내부구조 시리즈](https://virtualworld.tistory.com/63)
 - **[데이터베이스]** [Log-based System — RDBMS와 Kafka 구조 분석 — WAL vs Commit Log](https://virtualworld.tistory.com/19)
-- **[운영체제]** [Zero-Copy — 파일 전송 최적화와 Kafka 코드 분석](https://virtualworld.tistory.com/20)
-
 ---
 
 ## 연락처
