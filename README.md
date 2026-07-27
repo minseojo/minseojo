@@ -83,7 +83,7 @@
 | --- | --- | --- |
 | **언어** | Java, C#, Python | |
 | **백엔드** | Spring Boot, FastAPI | OAuth2/OIDC (Zitadel IdP) |
-| **데이터 & 메시징** | PostgreSQL (PostGIS), Apache Kafka, SeaweedFS, Redis | |
+| **데이터 & 메시징** | PostgreSQL (PostGIS), MySQL, Apache Kafka, SeaweedFS, Redis | |
 | **포맷 & 프로토콜** | COG/BigTIFF, 3D Tiles (B3DM·glTF 2.0), 바이너리 직접 파싱 | CCSDS |
 | **인프라 & DevOps** | AWS, Docker, GitHub Actions, Grafana, k6 | Kubernetes |
 
